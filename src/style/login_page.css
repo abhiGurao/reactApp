@@ -1,0 +1,97 @@
+body{
+    background-color: #FFF;
+}
+
+.header{
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.logo-container{
+  position: relative;
+  float: left;
+  width: 20%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #000;
+  background: #e0e0e0;
+}
+
+.text-container{
+  position: relative;
+  float: left;
+  width: 80%;
+  text-align: center;
+  text-transform: uppercase;
+  color: #FFF;
+  background: #666;
+}
+
+.login-page-container .container {
+  position: relative;
+  top: 150px;
+}
+
+input[type=email], input[type=password] {
+  width: 65%;
+  padding: 7px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.btn {
+  width: 120px;
+  display: block;
+  margin-left: 17.5%;
+  margin-bottom: 50px;
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+label{
+  margin: 0 !important;
+}
+
+.form-signin {
+  max-width: 400px;
+  margin: 0 auto;
+  border: 1px solid #999;
+  border-radius: 5px;
+  text-align: center;
+}
+
+.login-title{
+  width: 100%;
+  text-align: center;
+  background: #007bff;
+  padding: 8px;
+  color: #fff;
+  margin-bottom: 50px;
+}
+
+ a:link {
+    text-decoration: none;
+}
+
+.header-tab {
+  display: inline-block;
+  min-width: 150px;
+  float: right;
+  color: #fff;
+}
