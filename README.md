@@ -12,7 +12,7 @@ src/redux/reducer/reducer.js : have experimental reducer data
 The following explains how to setup app.
 
 Step: 1 go to link
-https://github.com/abhiGurao/loginDemo.git
+https://github.com/abhiGurao/reactApp.git
 
 Step: 2 clone or download
 
